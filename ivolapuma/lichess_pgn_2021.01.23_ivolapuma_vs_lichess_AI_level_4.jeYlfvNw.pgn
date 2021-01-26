@@ -1,0 +1,20 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/jeYlfvNw"]
+[Date "2021.01.23"]
+[White "ivolapuma"]
+[Black "lichess AI level 4"]
+[Result "1/2-1/2"]
+[UTCDate "2021.01.23"]
+[UTCTime "01:51:49"]
+[WhiteElo "1500"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "600+10"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. Nf3 { [%clk 0:10:00] } 1... Nc6 { [%clk 0:10:00] } 2. d4 { [%clk 0:10:04] } 2... d5 { [%clk 0:10:07] } { D02 Queen's Pawn Game: Chigorin Variation } 3. e3 { [%clk 0:10:09] } 3... Nf6 { [%clk 0:10:16] } 4. Nbd2 { [%clk 0:10:02] } 4... e6 { [%clk 0:10:22] } 5. c4 { [%clk 0:10:09] } 5... Ne4 { [%clk 0:10:29] } 6. Nxe4 { [%clk 0:10:09] } 6... dxe4 { [%clk 0:10:31] } 7. Nd2 { [%clk 0:10:14] } 7... Qh4 { [%clk 0:10:39] } 8. Be2 { [%clk 0:09:57] } 8... Qg5 { [%clk 0:10:44] } 9. O-O { [%clk 0:09:49] } 9... Qg6 { [%clk 0:10:48] } 10. f3 { [%clk 0:09:10] } 10... f5 { [%clk 0:10:51] } 11. fxe4 { [%clk 0:08:57] } 11... h5 { [%clk 0:10:56] } 12. exf5 { [%clk 0:08:21] } 12... Qg5 { [%clk 0:11:01] } 13. Ne4 { [%clk 0:08:00] } 13... Qh4 { [%clk 0:11:08] } 14. Nc5 { [%clk 0:07:44] } 14... Bxc5 { [%clk 0:11:11] } 15. dxc5 { [%clk 0:07:42] } 15... a5 { [%clk 0:11:18] } 16. fxe6 { [%clk 0:06:48] } 16... Bxe6 { [%clk 0:11:25] } 17. b3 { [%clk 0:06:43] } 17... Rd8 { [%clk 0:11:31] } 18. Qc2 { [%clk 0:06:09] } 18... Qe7 { [%clk 0:11:35] } 19. Bb2 { [%clk 0:05:32] } 19... Nb4 { [%clk 0:11:39] } 20. Qg6+ { [%clk 0:05:07] } 20... Kd7 { [%clk 0:11:43] } 21. Bxg7 { [%clk 0:05:07] } 21... Rhg8 { [%clk 0:11:47] } 22. Rf8 { [%clk 0:02:54] } 22... Rgxf8 { [%clk 0:11:52] } 23. Bxf8 { [%clk 0:02:58] } 23... Rxf8 { [%clk 0:11:56] } 24. Rf1 { [%clk 0:03:04] } 24... Rxf1+ { [%clk 0:12:03] } 25. Kxf1 { [%clk 0:03:01] } 25... Bf7 { [%clk 0:12:06] } 26. Qf5+ { [%clk 0:03:00] } 26... Be6 { [%clk 0:12:10] } 27. Qxh5 { [%clk 0:02:58] } 27... Bf7 { [%clk 0:12:16] } 28. Qh3+ { [%clk 0:02:53] } 28... Be6 { [%clk 0:12:19] } 29. Bg4 { [%clk 0:02:57] } 29... Qf8+ { [%clk 0:12:24] } 30. Qf3 { [%clk 0:02:52] } 30... Qg8 { [%clk 0:12:28] } 31. Bxe6+ { [%clk 0:02:12] } 31... Qxe6 { [%clk 0:12:31] } 32. Qe2 { [%clk 0:02:06] } 32... Qe4 { [%clk 0:12:36] } 33. Qf3 { [%clk 0:01:45] } 33... Qb1+ { [%clk 0:12:39] } 34. Kf2 { [%clk 0:01:38] } 34... Kd8 { [%clk 0:12:46] } 35. Qf8+ { [%clk 0:01:27] } 35... Kd7 { [%clk 0:12:49] } 36. Qf7+ { [%clk 0:01:35] } 36... Kd8 { [%clk 0:12:54] } 37. Qf8+ { [%clk 0:01:40] } 37... Kd7 { [%clk 0:13:00] } 38. Qf7+ { [%clk 0:01:49] } 38... Kd8 { [%clk 0:13:05] } 39. Qf8+ { [%clk 0:01:58] } { The game is a draw. } 1/2-1/2
+
+

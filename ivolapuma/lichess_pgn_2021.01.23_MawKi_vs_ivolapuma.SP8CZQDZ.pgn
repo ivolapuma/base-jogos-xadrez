@@ -1,0 +1,20 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/SP8CZQDZ"]
+[Date "2021.01.23"]
+[White "MawKi"]
+[Black "ivolapuma"]
+[Result "1-0"]
+[UTCDate "2021.01.23"]
+[UTCTime "02:21:31"]
+[WhiteElo "1725"]
+[BlackElo "1384"]
+[Variant "Standard"]
+[TimeControl "900+15"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%eval 0.21] [%clk 0:15:00] } 1... c5 { [%eval 0.2] [%clk 0:15:00] } 2. Nf3 { [%eval 0.0] [%clk 0:15:13] } 2... Nc6 { [%eval 0.39] [%clk 0:15:07] } 3. Bb5 { [%eval 0.0] [%clk 0:15:27] } { B30 Sicilian Defense: Nyezhmetdinov-Rossolimo Attack } 3... e5 { [%eval 0.48] [%clk 0:15:07] } 4. Bxc6?! { (0.48 → -0.20) Inaccuracy. d3 was best. } { [%eval -0.2] [%clk 0:15:37] } (4. d3 Bd6 5. Nc3 Nf6 6. a4 O-O 7. h3 Bc7 8. Bg5 h6) 4... bxc6 { [%eval 0.12] [%clk 0:15:18] } 5. Nxe5 { [%eval -0.24] [%clk 0:15:44] } 5... Nf6?? { (-0.24 → 1.64) Blunder. Qe7 was best. } { [%eval 1.64] [%clk 0:15:15] } (5... Qe7 6. d4 d6 7. Nf3 Qxe4+ 8. Be3 cxd4 9. Qxd4 Nf6 10. O-O) 6. Nc3?! { (1.64 → 0.97) Inaccuracy. O-O was best. } { [%eval 0.97] [%clk 0:15:47] } (6. O-O Qc7) 6... d5?! { (0.97 → 1.97) Inaccuracy. Qc7 was best. } { [%eval 1.97] [%clk 0:15:18] } (6... Qc7 7. Ng4 Nxg4 8. Qxg4 d5 9. Qg3 Qxg3 10. hxg3 dxe4 11. Nxe4) 7. exd5?! { (1.97 → 0.95) Inaccuracy. Nxc6 was best. } { [%eval 0.95] [%clk 0:15:44] } (7. Nxc6 Qd6) 7... cxd5 { [%eval 1.65] [%clk 0:15:29] } 8. O-O { [%eval 1.45] [%clk 0:15:47] } 8... Qd6?! { (1.45 → 2.50) Inaccuracy. Bd6 was best. } { [%eval 2.5] [%clk 0:15:03] } (8... Bd6 9. d4) 9. Re1 { [%eval 2.36] [%clk 0:15:56] } 9... Be6 { [%eval 2.45] [%clk 0:15:04] } 10. d4 { [%eval 2.4] [%clk 0:15:32] } 10... Rb8? { (2.40 → 4.15) Mistake. Be7 was best. } { [%eval 4.15] [%clk 0:13:54] } (10... Be7) 11. a4 { [%eval 4.23] [%clk 0:15:31] } 11... a6 { [%eval 5.17] [%clk 0:13:10] } 12. dxc5? { (5.17 → 2.83) Mistake. Bf4 was best. } { [%eval 2.83] [%clk 0:14:30] } (12. Bf4) 12... Qxc5 { [%eval 2.89] [%clk 0:12:41] } 13. Nf3?! { (2.89 → 1.93) Inaccuracy. Nd3 was best. } { [%eval 1.93] [%clk 0:13:46] } (13. Nd3 Qc4 14. Bf4 Rc8 15. Ne2 Be7 16. c3 O-O 17. Nd4 Rce8 18. a5 Ne4 19. f3 Nd6) 13... Bd6 { [%eval 2.06] [%clk 0:12:00] } 14. Ng5? { (2.06 → 0.93) Mistake. Be3 was best. } { [%eval 0.93] [%clk 0:13:35] } (14. Be3 Qc7 15. Bd4 O-O 16. h3 Rfd8 17. Qd2 Rdc8 18. Rad1 Ne4 19. Qe2 Qc6 20. Nxe4 dxe4) 14... Bxh2+?? { (0.93 → 5.16) Blunder. O-O was best. } { [%eval 5.16] [%clk 0:09:54] } (14... O-O 15. h3) 15. Kxh2 { [%eval 4.77] [%clk 0:13:36] } 15... Ng4+? { (4.77 → 10.48) Mistake. Qxf2 was best. } { [%eval 10.48] [%clk 0:10:07] } (15... Qxf2 16. Nxe6) 16. Qxg4 { [%eval 10.41] [%clk 0:13:50] } 16... Qxf2 { [%eval 18.19] [%clk 0:09:45] } 17. Rxe6+ { [%eval 17.87] [%clk 0:13:38] } 17... fxe6 { [%eval 20.48] [%clk 0:09:43] } 18. Qxe6+ { [%eval 20.53] [%clk 0:13:53] } 18... Kd8 { [%eval 20.1] [%clk 0:09:31] } 19. Nf7+ { [%eval 35.69] [%clk 0:14:02] } 19... Kc7?! { (35.69 → Mate in 3) Checkmate is now unavoidable. Qxf7 was best. } { [%eval #3] [%clk 0:09:19] } (19... Qxf7 20. Qxf7) 20. Nxd5+ { [%eval #8] [%clk 0:14:07] } { Black resigns. } 1-0
+
+

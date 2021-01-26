@@ -1,0 +1,20 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/vJksW8sZ"]
+[Date "2021.01.22"]
+[White "ivolapuma"]
+[Black "Elo_Bandit"]
+[Result "0-1"]
+[UTCDate "2021.01.22"]
+[UTCTime "02:04:21"]
+[WhiteElo "1384"]
+[BlackElo "1712"]
+[Variant "Standard"]
+[TimeControl "1800+10"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%eval 0.21] [%clk 0:30:00] } 1... c6 { [%eval 0.13] [%clk 0:30:00] } 2. d4 { [%eval 0.13] [%clk 0:30:05] } 2... d5 { [%eval 0.16] [%clk 0:30:09] } 3. e5 { [%eval 0.0] [%clk 0:30:06] } 3... Bf5 { [%eval 0.43] [%clk 0:30:17] } 4. Nf3 { [%eval 0.27] [%clk 0:30:06] } { B12 Caro-Kann Defense: Advance Variation, Short Variation } 4... e6 { [%eval 0.2] [%clk 0:30:26] } 5. Nc3 { [%eval -0.25] [%clk 0:30:07] } 5... Nd7 { [%eval 0.09] [%clk 0:30:27] } 6. Bd3 { [%eval 0.0] [%clk 0:29:50] } 6... Ne7 { [%eval 0.13] [%clk 0:30:34] } 7. Bxf5 { [%eval -0.24] [%clk 0:29:54] } 7... Nxf5 { [%eval -0.13] [%clk 0:30:43] } 8. O-O { [%eval 0.13] [%clk 0:29:44] } 8... c5 { [%eval 0.08] [%clk 0:30:31] } 9. dxc5?! { (0.08 → -0.69) Inaccuracy. Ne2 was best. } { [%eval -0.69] [%clk 0:29:15] } (9. Ne2 Be7) 9... Bxc5 { [%eval -0.89] [%clk 0:30:35] } 10. Na4 { [%eval -0.64] [%clk 0:28:56] } 10... Be7 { [%eval -0.38] [%clk 0:29:10] } 11. Re1?! { (-0.38 → -1.09) Inaccuracy. Nc3 was best. } { [%eval -1.09] [%clk 0:28:20] } (11. Nc3) 11... O-O { [%eval -1.09] [%clk 0:28:33] } 12. c3?? { (-1.09 → -5.58) Blunder. Nc3 was best. } { [%eval -5.58] [%clk 0:25:47] } (12. Nc3 Qb6 13. Qd3 Bb4 14. Bd2 Nc5 15. Qb5 Rfc8 16. Qxb6 axb6 17. g4 Ne7 18. h4 Bxc3) 12... b5 { [%eval -5.46] [%clk 0:28:27] } 13. Qb3 { [%eval -5.98] [%clk 0:23:50] } 13... bxa4 { [%eval -5.86] [%clk 0:28:27] } 14. Qb7 { [%eval -7.05] [%clk 0:23:57] } 14... Nc5 { [%eval -7.12] [%clk 0:27:28] } 15. Qc6 { [%eval -7.52] [%clk 0:23:11] } 15... Qb6 { [%eval -6.73] [%clk 0:27:07] } 16. Qxb6 { [%eval -6.59] [%clk 0:22:59] } 16... axb6 { [%eval -6.62] [%clk 0:27:17] } 17. Bd2 { [%eval -6.52] [%clk 0:22:13] } 17... Nd3 { [%eval -6.75] [%clk 0:26:47] } 18. b3 { [%eval -8.12] [%clk 0:21:58] } 18... Nxe1 { [%eval -8.24] [%clk 0:26:53] } { White resigns. } 0-1
+
+

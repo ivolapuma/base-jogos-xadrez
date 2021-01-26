@@ -1,0 +1,71 @@
+﻿[Event "Rio de Janeiro"]
+[White "Leitão,R."]
+[Black "Molina,R."]
+[Site ""]
+[Round "6"]
+[Annotator "Leitão,Rafael"]
+[Result "1-0"]
+[Date "2013.11.03"]
+[PlyCount "27"]
+[Setup "1"]
+[FEN "r1br2k1/1p3ppp/p3pn2/2b1q3/P7/2N1PB2/1P1BQPPP/R1R3K1 w - - 0 16"]
+
+{Esta foi uma partida decisiva, jogada na penúltima rodada. Como eu tinha um
+ponto de vantagem sobre meus rivais, uma vitória garantiria o título
+antecipado do torneio.} 16. g3 $3 {Um lance que é útil por vários motivos.
+Além de antecipar o ataque a h2, possível após Bc5-d6, as brancas reservam
+a opção de jogar e4-Bf4.} (16. Be1 Rb8 $11 )Bb4 {Não é fácil
+sugerir um plano para as pretas. Como você jogaria agora?} (16... Rb8 17. e4 {
+} g5 {Certamente um lance perigoso para as pretas, mas é preciso
+encontrar a refutação correta:} 18. Nd5 $1 $18 )17. Rd1 $1 {Outro lance
+muito forte. Eu queria encontrar um lance útil antes de jogar e4, afinal o
+bispo de f3 ainda não cunpriu sua função.} Rb8 18. e4 $1 {Agora sim!} g5 $2 {O lance perdedor. O menor dos males seria 18...Qa5.} 19. h4 h6 20. hxg5 hxg5 {
+Que lance você faria?} 21. Be3 $1 $18 {Agora as pretas estão perdidas. Não
+há defesa contra o plano de colocar o bispo em d4, expulsar a dama e preparar
+um ataque de mate.} Rxd1+ 22. Rxd1 Be7 23. Bd4 Qc7 24. e5 Nd7 25. Be4 $1 Nf8 (25... Bc5 26. Qh5 Bxd4 27. Qh6 $1 $18 )26. Qh5 Bd7 {Agora tenho a chance de
+executar um bonito arremate. Jogam as brancas e ganham.} 27. Nd5 $1 exd5 28. e6 fxe6 29. Bh7+ $1 1-0
+
+[Event "USA-ch m"]
+[White "Browne,Walter S"]
+[Black "Gulko,Boris F"]
+[Site "Los Angeles"]
+[Round "1.1"]
+[Annotator "Leitão"]
+[Result "0-1"]
+[Date "1991.??.??"]
+[WhiteElo "2525"]
+[BlackElo "2565"]
+[PlyCount "63"]
+[Setup "1"]
+[FEN "r4r2/1pp1k1p1/p1nbpn1p/4p3/4P3/P1NRBN1P/1PP1KPP1/R7 b - - 0 14"]
+
+14... Nh5 $5 15. Nh4 (15. g3 {Esta partida está comentada no excelente livro
+"Lessons With a Grandmaster" vol.1, do Gulko. Analisando a jogada 15.g3, Gulko
+escreve que deveria voltar o cavalo para f6, o que me deixou intrigado: por
+que não dobrar na coluna "f"? A resposta apontada pelo GM é muito didática
+e mostra a importância de entender as sutilezas posicionais e estar atento
+aos recursos do adversário.} Rf6 {Qual o melhor lance para as brancas?} (15... Nf6 $1 )16. Nb1 $3 {Melhorando a posição do cavalo, que agora defenderá o
+ponto f3, além de preparar o avanço dos peões do flanco dama. Uma jogada
+sensacional! As brancas têm vantagem.} )Nd4+ 16. Kd2 Rf6 17. g4 g5 18. Nf5+ exf5 19. gxh5 Ke6 20. Bxd4 exd4 21. Rxd4 Be5 22. Rc4 fxe4 23. Nxe4 Rf3 24. Rh1 Raf8 25. b3 b5 26. Rc6+ Kd5 27. Rc5+ Kd4 28. c3+ Kxe4 29. Re1+ Kf4 30. Rexe5 Rxf2+ 31. Re2 Rd8+ 32. Ke1 Rf3 33. Re6 Rd6 34. Rxd6 cxd6 35. Rc6 Rxh3 36. Rxd6 Rxh5 37. Rxa6 g4 38. a4 bxa4 39. bxa4 g3 40. Kf1 Rh1+ 41. Kg2 Rh2+ 42. Kg1 h5 43. Rf6+ Kg5 44. Rf1 Ra2 45. c4 h4 0-1
+
+[Event "Candidates Tournament Gp2"]
+[White "Leko,Peter"]
+[Black "Adams,Michael"]
+[Site "Dortmund"]
+[Round "6"]
+[Annotator "Leitão"]
+[Result "1-0"]
+[Date "2002.07.11"]
+[WhiteElo "2717"]
+[BlackElo "2752"]
+[PlyCount "33"]
+[Setup "1"]
+[FEN "3r4/1pr2pk1/1p2b2p/3p2p1/1N1Pn3/1B5P/PP2RPP1/4R1K1 w - - 0 29"]
+
+29. g4 $3 {Uma jogada sensacional, que quebra vários dogmas de uma só vez:
+não colocar peões na mesma cor do bispo, não debilitar a estrutura... A
+verdade é que o xadrez moderno é bastante concreto. Tudo deve ser calculado
+à luz dos elementos dinâmicos da posição. As brancas têm um plano mortal:
+Rg2-f3-Rg3-h4, abrindo espaço no flanco rei. As pretas não tem plano ativo e
+a condução do GM húngaro foi absolutamente impecável.} Nf6 30. Kg2 Rd6 31. f3 Bd7 32. Kg3 Kf8 33. h4 Bb5 34. Re5 gxh4+ 35. Kxh4 Bc4 36. Bc2 Bb5 37. a3 Rd8 38. Kg3 Kg7 39. Bf5 Kf8 40. Rh1 Kg7 41. Nc2 Re8 42. Ne3 Rce7 43. Kf4 Bc6 44. Bc2 Bd7 45. g5 1-0
+

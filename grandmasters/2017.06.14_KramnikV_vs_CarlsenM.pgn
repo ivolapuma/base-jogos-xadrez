@@ -1,0 +1,30 @@
+﻿[Event "Altibox Norway Chess 2017"]
+[White "Kramnik,Vladimir"]
+[Black "Carlsen,Magnus"]
+[Site "Stavanger"]
+[Round "7"]
+[Annotator "Leitão"]
+[Result "1-0"]
+[Date "2017.06.14"]
+[WhiteElo "2808"]
+[BlackElo "2832"]
+[PlyCount "79"]
+[TimeControl "60"]
+
+{Kramnik venceu uma partida espetacular contra Carlsen no Norway Chess.
+Impressionante como o experiente russo encontrou todos os melhores lances
+durante as complicações. Como jogar de brancas na posição do diagrama?} 1. e4 {[%emt 0:0:5]} e5 {[%emt 0:0:5]} 2. Nf3 {[%emt 0:0:5]} Nc6 {[%emt 0:0:0]} 3. Bc4 {[%emt 0:0:4]} Bc5 {[%emt 0:0:14]} 4. c3 {[%emt 0:0:7]} Nf6 {[%emt 0:0:7]} 5. d3 {[%emt 0:0:4]} d6 {[%emt 0:0:37]} 6. 0-0 {[%emt 0:0:0]} a6 {[%emt 0:0:43]} 7. Re1 {[%emt 0:0:26]} Ba7 {[%emt 0:0:21]} 8. a4 {[%emt 0:0:30]
+} 0-0 {[%emt 0:0:39]} 9. h3 {[%emt 0:0:42]} {
+} Ne7 {[%emt 0:0:28]
+} 10. d4 {[%emt 0:0:47]} Ng6 {[%emt 0:0:5]} 11. Nbd2 {[%emt 0:0:20]} c6 {[%emt 0:2:10]
+} 12. Bd3 Re8 $146 {[%emt 0:14:36]} (12... exd4 13. Nxd4 Re8 14. N2f3 Bd7 15. Bc2 d5 16. exd5 Rxe1+ 17. Qxe1 Nxd5 18. Bg5 Qc7 19. Bb3 Ndf4 20. Qd2 Re8 21. Re1 Rxe1+ 22. Qxe1 h6 23. Bxf4 Qxf4 24. Bc2 Bb8 25. Qd1 Qf6 26. Nb3 Ne5 27. Nbd4 g6 28. Nxe5 Bxe5 29. Nf3 Bd6 30. Nd2 Qe7 31. Ne4 Be5 32. f4 Bxf4 33. Qxd7 Qxd7 34. Nf6+ Kf8 35. Nxd7+ Ke7 36. Bb3 f5 37. Bg8 Kxd7 38. Bh7 Bc1 39. b3 Bb2 40. Bxg6 Ke6 41. c4 c5 {1/2-1/2 (41) Sjugirov,S (2660)-Eliseev,U 
+(2606) St Petersburg 2016} )13. Bc2 {[%emt 0:2:3]} h6 {[%emt 0:14:49]} 14. Nf1 {[%emt 0:1:32]} exd4 {[%emt 0:11:59]} 15. cxd4 {[%emt 0:3:11]} c5 {[%emt 0:0:35]
+} 16. d5 {[%emt 0:9:34]} b5 {[%emt 0:10:56]} 17. axb5 {[%emt 0:0:0]} axb5 {[%emt 0:0:4]} 18. Ng3 $14 {[%emt 0:8:57]} (18. b3 $14 )Bd7 {[%emt 0:4:46]} 19. Be3 {[%emt 0:1:4]} Bb6 {[%emt 0:0:46]} 20. Rxa8 {[%emt 0:1:57]
+} Qxa8 {[%emt 0:0:2]} 21. b4 {[%emt 0:0:16]} Qa7 {[%emt 0:0:0]} 22. Qa1 {[%emt 0:2:11]} { [#]} Qc7 $6 {[%emt 0:3:59] [#]} 23. Bxh6 $1 {[%emt 0:0:0]} cxb4 {[%emt 0:5:56]} 24. Bxg7 $1 {[%emt 0:4:17]} {
+} Qxc2 {[%emt 0:1:30]
+} 25. Qxf6 {[%emt 0:8:17]} Qxf2+ {[%emt 0:3:47]} (25... Bxf2+ 26. Kh2 Qc3 (26... Bxe1 $2 27. Bh6 Qc3 28. e5 $18 )27. Re2 Qxf6 28. Bxf6 $16 )26. Kh2 {[%emt 0:3:34]
+} Bd8 {[%emt 0:1:2]} 27. Qxd6 {[%emt 0:8:41]} Nh4 {[%emt 0:0:0]} 28. Nxh4 {[%emt 0:0:5]} Bxh4 {[%emt 0:0:19]} {
+} 29. Nh5 $1 {[%emt 0:0:21]
+} Bxh3 {[%emt 0:5:16]} 30. Rg1 $1 {[%emt 0:0:45]} (30. Kxh3 $2 Qxe1 $19 )Bg5 {[%emt 0:2:24]} 31. Bf6 $1 {[%emt 0:10:32]} Bg4 {[%emt 0:4:55]} 32. Bxg5 {[%emt 0:0:13]} Bxh5 {[%emt 0:0:5]} 33. Qh6 $18 {[%emt 0:0:13]} Rxe4 {[%emt 0:1:1]
+} (33... Bg6 34. d6 $18 )34. Qxh5 {[%emt 0:1:10]} Qf5 {[%emt 0:0:0]} 35. Qh6 {[%emt 0:2:52]} (35. d6 $18 )b3 {[%emt 0:2:5]} 36. Bf6 {[%emt 0:0:58]} Qf4+ {[%emt 0:0:1]} 37. Qxf4 {[%emt 0:0:6]} Rxf4 {[%emt 0:0:0]} 38. d6 {[%emt 0:1:4]} Rxf6 {[%emt 0:0:1]} 39. Rd1 {[%emt 0:0:5]} Rh6+ {[%emt 0:0:6]} 40. Kg1 {[%emt 0:0:0]} 1-0
+
