@@ -1,0 +1,18 @@
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/Vyn87kMf"]
+[Date "2021.01.29"]
+[White "lichess AI level 4 (?)"]
+[Black "Anonymous (?)"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A45"]
+[Opening "Indian Game"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 Nf6 { A45 Indian Game } 2. Nc3 e6 3. e4 Bb4 4. Bd3 Nc6 5. Nf3 h6 6. e5 Nd5 7. h4 Nxc3 8. Qd2 Nd5 9. c3 Be7 10. O-O Bxh4 11. Rb1 b6 12. Nxh4 Qxh4 13. g3 Qh3 14. Re1 Bb7 15. Bf1 Qf5 16. Bd3 Qh5 17. Be2 Qg6 18. Bd3 f5 19. exf6 Qxf6 20. a3 O-O-O 21. Be4 Nde7 22. f4 Nf5 23. Qd3 d5 24. Bg2 Qg6 25. b4 Qg4 26. Kf2 Rde8 27. b5 Na5 28. Qf3 Qg6 29. Qd3 Nc4 30. Kg1 Qh7 31. g4 Nh4 32. Qxh7 Rxh7 33. Re2 Nxg2 34. Kxg2 Nd6 35. Rbb2 Ne4 36. f5 exf5 37. a4 Rhh8 38. Ra2 Nxc3 39. Kf2 Rxe2+ 40. Rxe2 Nxe2 41. Kxe2 Re8+ 42. Kd2 fxg4 43. Kd3 g3 44. Bd2 g2 45. Be3 Rxe3+ 46. Kxe3 g1=Q+ 47. Kf4 Qxd4+ 48. Kf3 Qe4+ 49. Kg3 d4 50. Kf2 Qf3+ 51. Ke1 Qe3+ 52. Kd1 Bf3+ 53. Kc2 Qc3+ 54. Kb1 Be4+ 55. Ka2 Bd5+ 56. Kb1 Bb3 57. a5 Qc2+ 58. Ka1 Qa2# { Black wins by checkmate. } 0-1
+
+
