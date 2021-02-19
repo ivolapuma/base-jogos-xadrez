@@ -1,0 +1,18 @@
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/NfalOEmo"]
+[Date "2021.02.10"]
+[White "ivolapuma"]
+[Black "lichess AI level 5"]
+[Result "1-0"]
+[WhiteElo "1500"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A40"]
+[Opening "Mikenas Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 Nc6 { A40 Mikenas Defense } 2. d5 Na5 3. e4 b5 4. c4 e6 5. Nf3 Nxc4 6. Nc3 Bb7 7. b3 Nb6 8. Be3 Bb4 9. Qd4 Bxc3+ 10. Qxc3 f6 11. Bxb5 exd5 12. e5 h5 13. O-O d4 14. Bxd4 Nd5 15. Qc4 Nge7 16. Rfe1 f5 17. e6 c6 18. Ne5 cxb5 19. Qxb5 Bc6 20. Nxc6 dxc6 21. Qb7 a5 22. Rad1 Rb8 23. Qa7 Ra8 24. Qc5 O-O 25. Be5 a4 26. b4 Rc8 27. Qd4 Kh7 28. Bxg7 Rg8 29. Bf6 Rg4 30. Qe5 Qe8 31. Bxe7 Nxe7 32. Rd7 Qf8 33. a3 Rg5 34. f4 Rg7 35. Red1 Rb8 36. R1d3 Rb5 37. Qd6 h4 38. Rd8 Qf6 39. g3 Qa1+ 40. Rd1 Qb2 41. Qd3 Qa2 42. Rf8 Rd5 43. Qf3 Rxd1+ 44. Qxd1 Qxe6 45. Qh5+ Qh6 46. Rh8+ Kxh8 47. Qxh6+ Kg8 48. Qxh4 Rf7 49. Qh6 Rg7 50. Kf2 Kf7 51. Qd6 Rg4 52. Ke3 Nd5+ 53. Kd4 Ne7 54. Ke5 Rg7 55. Qf6+ Kg8 56. Ke6 Nd5 57. Qd8+ Kh7 58. Kxf5 Ne3+ 59. Kf6 Rg6+ 60. Kf7 Nd5 61. f5 Rg4 62. Qc8 Rg7+ 63. Ke6 Rc7 64. Qe8 Kg7 65. Qg6+ Kf8 66. f6 Nb6 67. f7 Re7+ 68. Kd6 Nc4+ 69. Kc5 Rxf7 70. Kxc4 Rf2 71. h4 Rf3 72. Kc5 Rxa3 73. Kxc6 Ke7 74. Qd6+ Kf7 75. Kd7 Rb3 76. Qe7+ Kg8 77. Ke8 Kh8 78. Kf8 Rf3+ 79. Ke8 Ra3 80. b5 Rxg3 81. b6 Kg8 82. Qf7+ Kh8 83. Kf8 Rg5 84. Qf6+ Rg7 85. Qxg7# { White wins by checkmate. } 1-0
+
+

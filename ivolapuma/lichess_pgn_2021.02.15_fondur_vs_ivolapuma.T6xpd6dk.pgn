@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/T6xpd6dk"]
+[Date "2021.02.15"]
+[White "fondur"]
+[Black "ivolapuma"]
+[Result "1-0"]
+[UTCDate "2021.02.15"]
+[UTCTime "00:08:48"]
+[WhiteElo "1321"]
+[BlackElo "1239"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-36"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "A46"]
+[Opening "Indian Game: London System"]
+[Termination "Time forfeit"]
+[Annotator "lichess.org"]
+
+1. d4 { [%eval 0.0] [%clk 0:10:00] } 1... Nf6 { [%eval 0.19] [%clk 0:10:00] } 2. Bf4 { [%eval -0.04] [%clk 0:09:54] } 2... e6 { [%eval -0.04] [%clk 0:09:46] } 3. Nf3 { [%eval 0.0] [%clk 0:09:51] } { A46 Indian Game: London System } 3... d5 { [%eval 0.01] [%clk 0:09:32] } 4. e3 { [%eval 0.01] [%clk 0:09:49] } 4... Nc6?! { (0.01 → 0.66) Inaccuracy. c5 was best. } { [%eval 0.66] [%clk 0:09:29] } (4... c5 5. Be2 Qb6 6. b3 Nc6 7. h3 cxd4 8. exd4 Ne4 9. c3) 5. Bd3 { [%eval 0.17] [%clk 0:09:45] } 5... Bd6 { [%eval 0.13] [%clk 0:09:00] } 6. Bg3 { [%eval 0.13] [%clk 0:09:43] } 6... Bd7?! { (0.13 → 0.79) Inaccuracy. Qe7 was best. } { [%eval 0.79] [%clk 0:08:51] } (6... Qe7 7. Ne5 Bxe5 8. dxe5 Nd7 9. f4 Nc5 10. a3 Nxd3+ 11. cxd3) 7. Nbd2 { [%eval 0.81] [%clk 0:09:32] } 7... h6 { [%eval 0.95] [%clk 0:08:43] } 8. Ne5 { [%eval 0.59] [%clk 0:09:31] } 8... Nxe5?? { (0.59 → 4.74) Blunder. O-O was best. } { [%eval 4.74] [%clk 0:08:34] } (8... O-O) 9. dxe5 { [%eval 4.83] [%clk 0:09:28] } 9... Ne4 { [%eval 5.32] [%clk 0:08:04] } 10. Nxe4?! { (5.32 → 4.19) Inaccuracy. Bxe4 was best. } { [%eval 4.19] [%clk 0:09:23] } (10. Bxe4 Be7) 10... dxe4 { [%eval 4.26] [%clk 0:08:02] } 11. Bxe4? { (4.26 → 2.58) Mistake. exd6 was best. } { [%eval 2.58] [%clk 0:09:21] } (11. exd6 exd3 12. dxc7 Qg5 13. Qxd3 Qa5+ 14. c3 Bc6 15. Qd6 Qd5 16. f3 Qxd6 17. Bxd6 f6) 11... Be7 { [%eval 2.53] [%clk 0:07:13] } 12. c3?! { (2.53 → 1.40) Inaccuracy. Qg4 was best. } { [%eval 1.4] [%clk 0:09:10] } (12. Qg4 g6) 12... c6? { (1.40 → 2.57) Mistake. O-O was best. } { [%eval 2.57] [%clk 0:06:51] } (12... O-O) 13. f4?! { (2.57 → 1.83) Inaccuracy. Qg4 was best. } { [%eval 1.83] [%clk 0:09:09] } (13. Qg4 g6 14. h4 h5 15. Qf3 Qc7 16. O-O-O Rd8 17. Bf4 c5 18. Rd2 Bc6 19. Rxd8+ Bxd8) 13... f5?? { (1.83 → 4.10) Blunder. Qb6 was best. } { [%eval 4.1] [%clk 0:06:44] } (13... Qb6 14. Qe2) 14. Bc2?? { (4.10 → 1.56) Blunder. exf6 was best. } { [%eval 1.56] [%clk 0:09:07] } (14. exf6 gxf6) 14... Qb6 { [%eval 1.53] [%clk 0:06:22] } 15. Bf2? { (1.53 → 0.39) Mistake. Qh5+ was best. } { [%eval 0.39] [%clk 0:08:54] } (15. Qh5+ Kf8) 15... Qxb2 { [%eval 0.2] [%clk 0:06:18] } 16. O-O { [%eval 0.49] [%clk 0:08:49] } 16... O-O?? { (0.49 → 6.32) Blunder. O-O-O was best. } { [%eval 6.32] [%clk 0:05:58] } (16... O-O-O 17. e4 Qxc3 18. exf5 Kb8 19. fxe6 Bxe6 20. Qc1 Rd2 21. Bb3 Qxc1 22. Raxc1 Bf5 23. h3) 17. Qxd7 { [%eval 6.29] [%clk 0:08:10] } 17... Qxc2 { [%eval 6.08] [%clk 0:05:09] } 18. Qxe7 { [%eval 6.25] [%clk 0:08:05] } 18... Rfe8 { [%eval 6.32] [%clk 0:04:27] } 19. Qxb7 { [%eval 6.26] [%clk 0:07:49] } 19... Rab8 { [%eval 7.06] [%clk 0:04:03] } 20. Qxc6 { [%eval 6.84] [%clk 0:07:30] } 20... Kf8 { [%eval 7.51] [%clk 0:03:40] } 21. h3 { [%eval 7.29] [%clk 0:07:11] } 21... Rb2 { [%eval 8.71] [%clk 0:03:21] } 22. a4 { [%eval 7.58] [%clk 0:07:02] } 22... Ra2 { [%eval 10.09] [%clk 0:02:18] } 23. Rxa2 { [%eval 10.56] [%clk 0:06:35] } 23... Qxa2 { [%eval 10.38] [%clk 0:02:17] } 24. g4 { [%eval 8.42] [%clk 0:06:34] } 24... Qd5 { [%eval 9.98] [%clk 0:01:44] } 25. Qd6+ { [%eval 8.85] [%clk 0:06:17] } 25... Qxd6 { [%eval 8.81] [%clk 0:01:39] } 26. exd6 { [%eval 9.1] [%clk 0:06:17] } 26... Rd8 { [%eval 8.64] [%clk 0:01:33] } 27. Rd1 { [%eval 8.87] [%clk 0:06:16] } 27... Ke8 { [%eval 9.34] [%clk 0:01:28] } 28. g5 { [%eval 8.0] [%clk 0:05:43] } 28... hxg5 { [%eval 9.0] [%clk 0:01:04] } 29. fxg5 { [%eval 9.04] [%clk 0:05:40] } 29... g6 { [%eval 9.25] [%clk 0:00:55] } 30. e4 { [%eval 8.95] [%clk 0:05:29] } 30... Kd7 { [%eval 9.64] [%clk 0:00:48] } 31. Bxa7 { [%eval 8.72] [%clk 0:05:26] } 31... Ra8 { [%eval 9.23] [%clk 0:00:42] } 32. Bb6 { [%eval 9.34] [%clk 0:05:17] } 32... Rxa4 { [%eval 9.75] [%clk 0:00:39] } 33. exf5 { [%eval 8.65] [%clk 0:05:12] } 33... exf5 { [%eval 8.92] [%clk 0:00:34] } 34. Kf2 { [%eval 8.94] [%clk 0:05:11] } 34... Ra3 { [%eval 9.05] [%clk 0:00:27] } 35. Rd3 { [%eval 9.17] [%clk 0:05:09] } 35... Rb3 { [%eval 8.97] [%clk 0:00:18] } 36. Be3 { [%eval 9.17] [%clk 0:05:00] } 36... Rb7 { [%eval 9.58] [%clk 0:00:06] } 37. h4 { [%eval 9.21] [%clk 0:04:53] } { White wins on time. } 1-0
+
+

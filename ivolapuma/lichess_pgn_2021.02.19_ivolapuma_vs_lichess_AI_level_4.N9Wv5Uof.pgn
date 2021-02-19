@@ -1,0 +1,18 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/N9Wv5Uof"]
+[Date "2021.02.11"]
+[White "ivolapuma"]
+[Black "lichess AI level 4"]
+[Result "0-1"]
+[WhiteElo "1212"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Vinogradov Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%eval 0.25] [%clk 0:11:50] } 1... e5 { [%eval 0.31] } 2. Nf3 { [%eval 0.28] } 2... Nc6 { [%eval 0.27] } 3. Bb5 { [%eval 0.17] } 3... Qe7?! { (0.17 → 1.18) Inaccuracy. Nf6 was best. } { [%eval 1.18] } { C60 Ruy Lopez: Vinogradov Variation } (3... Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Nd7 7. Be3 O-O 8. Nxe5) 4. d3 { [%eval 0.96] } 4... Nf6 { [%eval 0.98] } 5. Be3?! { (0.98 → 0.28) Inaccuracy. Ba4 was best. } { [%eval 0.28] } (5. Ba4 d6 6. O-O h6 7. Nc3 Bd7 8. Be3 a6 9. Nd5 Nxd5) 5... h5? { (0.28 → 1.43) Mistake. Qb4+ was best. } { [%eval 1.43] } (5... Qb4+ 6. Nc3) 6. O-O { [%eval 1.36] } 6... b6?! { (1.36 → 2.13) Inaccuracy. a6 was best. } { [%eval 2.13] } (6... a6 7. Ba4) 7. Nc3 { [%eval 1.98] } 7... Bb7 { [%eval 1.73] } 8. Qd2? { (1.73 → 0.62) Mistake. Nd5 was best. } { [%eval 0.62] } (8. Nd5 Qd8) 8... O-O-O { [%eval 0.76] } 9. Bg5 { [%eval 0.37] } 9... Qe6? { (0.37 → 1.49) Mistake. Nd4 was best. } { [%eval 1.49] } (9... Nd4) 10. h3 { [%eval 1.06] } 10... Qd6? { (1.06 → 2.64) Mistake. Re8 was best. } { [%eval 2.64] } (10... Re8) 11. Rfe1?! { (2.64 → 1.62) Inaccuracy. Bc4 was best. } { [%eval 1.62] } (11. Bc4) 11... a6 { [%eval 1.49] } 12. Ba4 { [%eval 1.14] } 12... Be7 { [%eval 1.01] } 13. Nd5?! { (1.01 → 0.09) Inaccuracy. Rad1 was best. } { [%eval 0.09] } (13. Rad1 Nh7 14. Be3 g5 15. d4 g4 16. Nxe5 gxh3 17. Nd5 Rhg8 18. g3 Nf6 19. Bxc6 dxc6) 13... Nxd5 { [%eval -0.04] } 14. exd5 { [%eval -0.09] } 14... Bxg5 { [%eval -0.02] } 15. Qxg5?? { (-0.02 → -1.77) Blunder. Nxg5 was best. } { [%eval -1.77] } (15. Nxg5) 15... Qxd5?? { (-1.77 → 0.14) Blunder. f6 was best. } { [%eval 0.14] } (15... f6 16. Qg3 Qxd5 17. Bb3 Qd6 18. Rad1 g5 19. d4 h4 20. Qg4 exd4 21. Nxd4 Rde8 22. Rxe8+) 16. Qxg7?? { (0.14 → -5.15) Blunder. Bxc6 was best. } { [%eval -5.15] } (16. Bxc6) 16... b5?? { (-5.15 → 0.78) Blunder. Rhg8 was best. } { [%eval 0.78] } (16... Rhg8 17. Qf6 Nd4 18. Kf1 Nxf3 19. gxf3 Rg6 20. Qf5 Rdg8 21. Ke2 Qd6 22. Rac1 Rf6 23. Rg1) 17. Bb3 { [%eval 0.79] } 17... Qc5 { [%eval 0.77] } 18. c3 { [%eval 0.8] } 18... b4?! { (0.80 → 1.60) Inaccuracy. Rdg8 was best. } { [%eval 1.6] } (18... Rdg8 19. Qxf7) 19. Nxe5?? { (1.60 → -2.54) Blunder. Bxf7 was best. } { [%eval -2.54] } (19. Bxf7 Rdf8) 19... Rdg8 { [%eval -2.06] } 20. Qf6 { [%eval -2.13] } 20... Nd8?? { (-2.13 → 0.52) Blunder. Nxe5 was best. } { [%eval 0.52] } (20... Nxe5 21. Rxe5) 21. Bxf7?? { (0.52 → -4.94) Blunder. Re4 was best. } { [%eval -4.94] } (21. Re4 bxc3) 21... Rh6?? { (-4.94 → 5.46) Blunder. Rxg2+ was best. } { [%eval 5.46] } (21... Rxg2+ 22. Kf1 Rf8 23. d4 Qd6 24. Qxd6 cxd6 25. d5 Rh2 26. Nf3 Rxh3 27. Ng5 Rh1+ 28. Ke2) 22. Qxh6?? { (5.46 → Mate in 3) Checkmate is now unavoidable. Ng6 was best. } { [%eval #-3] } (22. Ng6 Rhxg6) 22... Rxg2+ { [%eval #-2] } 23. Kf1 { [%eval #-1] } 23... Qxf2# { Black wins by checkmate. } 0-1
+
+

@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/LeZVtNNU"]
+[Date "2021.02.15"]
+[White "Akashvijay"]
+[Black "ivolapuma"]
+[Result "0-1"]
+[UTCDate "2021.02.15"]
+[UTCTime "02:34:09"]
+[WhiteElo "1113"]
+[BlackElo "1171"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+35"]
+[Variant "Standard"]
+[TimeControl "480+5"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%eval 0.25] [%clk 0:08:00] } 1... c5 { [%eval 0.2] [%clk 0:08:00] } 2. Nf3 { [%eval 0.0] [%clk 0:08:03] } 2... Nc6 { [%eval 0.44] [%clk 0:07:59] } { B30 Sicilian Defense: Old Sicilian } 3. Bc4 { [%eval 0.0] [%clk 0:08:03] } 3... e6 { [%eval 0.0] [%clk 0:07:55] } 4. O-O { [%eval -0.08] [%clk 0:08:06] } 4... Nf6 { [%eval -0.13] [%clk 0:07:44] } 5. e5 { [%eval -0.56] [%clk 0:08:05] } 5... Nd5?! { (-0.56 → 0.29) Inaccuracy. Ng4 was best. } { [%eval 0.29] [%clk 0:07:23] } (5... Ng4 6. Re1 Qc7 7. Qe2 f6 8. d4 cxd4 9. exf6 Nxf6 10. Bd3) 6. Ng5?? { (0.29 → -5.02) Blunder. Re1 was best. } { [%eval -5.02] [%clk 0:07:56] } (6. Re1 Nb6 7. Bb5 d5 8. d4 cxd4 9. Nxd4 Bd7 10. Nxc6 bxc6) 6... Qxg5 { [%eval -5.26] [%clk 0:07:11] } 7. d4 { [%eval -5.25] [%clk 0:07:59] } 7... Nf4?? { (-5.25 → -2.60) Blunder. Qd8 was best. } { [%eval -2.6] [%clk 0:06:35] } (7... Qd8 8. Nd2 cxd4 9. Re1 Be7 10. Nf3 Nb6 11. Bb5 O-O 12. Nxd4 Nxd4 13. Qxd4 d6 14. exd6) 8. g3 { [%eval -2.71] [%clk 0:07:55] } 8... d5?? { (-2.71 → -0.98) Blunder. Nh3+ was best. } { [%eval -0.98] [%clk 0:06:19] } (8... Nh3+ 9. Kg2 Qd8 10. d5 exd5 11. Qxd5 Ng5 12. Bxg5 Qxg5 13. Qxf7+ Kd8 14. f4 Qg6 15. Qxg6) 9. Bxf4 { [%eval -0.98] [%clk 0:07:49] } 9... Qe7 { [%eval -0.63] [%clk 0:05:46] } 10. Bb5 { [%eval -0.72] [%clk 0:07:49] } 10... Bd7 { [%eval -0.34] [%clk 0:05:41] } 11. Qd2?? { (-0.34 → -2.96) Blunder. Bxc6 was best. } { [%eval -2.96] [%clk 0:07:29] } (11. Bxc6 bxc6) 11... a6?? { (-2.96 → -0.16) Blunder. Nxd4 was best. } { [%eval -0.16] [%clk 0:05:29] } (11... Nxd4 12. Be2) 12. Bg5? { (-0.16 → -1.23) Mistake. Bxc6 was best. } { [%eval -1.23] [%clk 0:07:28] } (12. Bxc6) 12... f6 { [%eval -1.23] [%clk 0:05:26] } 13. exf6 { [%eval -1.48] [%clk 0:07:31] } 13... gxf6 { [%eval -1.5] [%clk 0:05:29] } 14. Bxf6?? { (-1.50 → -6.43) Blunder. Bxc6 was best. } { [%eval -6.43] [%clk 0:07:23] } (14. Bxc6) 14... Qxf6 { [%eval -6.84] [%clk 0:05:28] } 15. Bxc6 { [%eval -6.57] [%clk 0:07:25] } 15... Bxc6 { [%eval -6.69] [%clk 0:05:31] } { White resigns. } 0-1
+
+

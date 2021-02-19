@@ -1,0 +1,20 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/Afxvf1i7"]
+[Date "2021.02.17"]
+[White "yosefm"]
+[Black "ivolapuma"]
+[Result "0-1"]
+[UTCDate "2021.02.17"]
+[UTCTime "22:43:47"]
+[WhiteElo "1420"]
+[BlackElo "1171"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%eval 0.25] [%clk 0:15:00] } 1... c5 { [%eval 0.2] [%clk 0:15:00] } 2. Nf3 { [%eval 0.0] [%clk 0:15:08] } 2... Nc6 { [%eval 0.44] [%clk 0:15:08] } 3. Bb5 { [%eval 0.0] [%clk 0:15:13] } { B30 Sicilian Defense: Nyezhmetdinov-Rossolimo Attack } 3... e5 { [%eval 0.48] [%clk 0:14:50] } 4. O-O { [%eval 0.54] [%clk 0:15:16] } 4... Nge7 { [%eval 0.74] [%clk 0:14:48] } 5. Nc3 { [%eval 0.4] [%clk 0:15:20] } 5... a6 { [%eval 0.71] [%clk 0:14:50] } 6. Bxc6 { [%eval 0.4] [%clk 0:15:28] } 6... Nxc6 { [%eval 0.71] [%clk 0:14:45] } 7. d3?! { (0.71 → 0.13) Inaccuracy. Nd5 was best. } { [%eval 0.13] [%clk 0:15:32] } (7. Nd5 Be7 8. c3 O-O 9. d4 d6 10. Be3 exd4 11. cxd4 Nb4) 7... Nd4?? { (0.13 → 3.11) Blunder. d6 was best. } { [%eval 3.11] [%clk 0:14:15] } (7... d6 8. Nd5 Be7 9. Nd2 Be6 10. Nc4 b5 11. Nce3 O-O 12. f4) 8. Nxe5 { [%eval 3.23] [%clk 0:15:16] } 8... f6?? { (3.23 → 8.66) Blunder. d6 was best. } { [%eval 8.66] [%clk 0:14:07] } (8... d6 9. Nc4) 9. Nc4?? { (8.66 → 3.46) Blunder. Qh5+ was best. } { [%eval 3.46] [%clk 0:15:16] } (9. Qh5+ g6) 9... b5 { [%eval 3.47] [%clk 0:13:55] } 10. Nd6+?? { (3.47 → -1.86) Blunder. Ne3 was best. } { [%eval -1.86] [%clk 0:14:55] } (10. Ne3 Be7) 10... Bxd6 { [%eval -1.68] [%clk 0:13:56] } 11. Nd5?? { (-1.68 → -4.55) Blunder. Qh5+ was best. } { [%eval -4.55] [%clk 0:14:54] } (11. Qh5+) 11... Bb7 { [%eval -4.11] [%clk 0:13:40] } 12. Qh5+?! { (-4.11 → -5.22) Inaccuracy. c3 was best. } { [%eval -5.22] [%clk 0:14:59] } (12. c3) 12... g6 { [%eval -5.12] [%clk 0:13:16] } 13. Qh6 { [%eval -5.9] [%clk 0:14:45] } 13... Bxd5 { [%eval -5.91] [%clk 0:13:01] } 14. exd5 { [%eval -5.7] [%clk 0:14:52] } 14... Qe7 { [%eval -5.47] [%clk 0:12:51] } 15. Bf4?! { (-5.47 → -9.26) Inaccuracy. c4 was best. } { [%eval -9.26] [%clk 0:14:43] } (15. c4) 15... Ne2+ { [%eval -9.08] [%clk 0:12:27] } 16. Kh1 { [%eval -9.13] [%clk 0:14:42] } 16... Bxf4 { [%eval -9.18] [%clk 0:11:48] } 17. Qh4 { [%eval -9.19] [%clk 0:14:06] } { White resigns. } 0-1
+
+
